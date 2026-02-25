@@ -1,5 +1,7 @@
 node_modules/
 dist/
 db.sqlite
+db.sqlite-shm
+db.sqlite-wal
 package-lock.json
 .DS_Store
